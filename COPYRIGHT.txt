@@ -1,0 +1,11 @@
+Copyright © [2026] [Warwick Weston Wright]
+
+This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0).
+
+You may share this work freely, but you cannot:
+- Use it commercially
+- Create or share modified versions
+- Remove attribution
+
+Full license: https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
+Summary: https://creativecommons.org/licenses/by-nc-nd/4.0/
